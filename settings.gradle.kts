@@ -1,0 +1,7 @@
+rootProject.name = "ktor-arrow-demo"
+pluginManagement{
+    plugins{
+        id("org.jetbrains.kotlin.jvm") version "1.4.32"
+        id("org.jetbrains.kotlin.plugin.serialization") version "1.4.32"
+    }
+}
